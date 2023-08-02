@@ -18,11 +18,11 @@
 ###
 
 <div align="left">
+  <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" height="30" width="30" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="30" width="30" alt="selenium logo"  />
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" height="30" width="30" alt="java logo"  />
 </div>
 
 ###
